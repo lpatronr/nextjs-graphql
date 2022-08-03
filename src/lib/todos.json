@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "Do something nice for the world",
+    "done": false
+  },
+  {
+    "id": 2,
+    "description": "Watch a classic movie",
+    "done": false
+  },
+  {
+    "id": 3,
+    "description": "Learn calligraphy",
+    "done": false
+  },
+  {
+    "id": 4,
+    "description": "Take a class at local community center that interests me",
+    "done": false
+  }
+]
